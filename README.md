@@ -1,4 +1,4 @@
-#  Kebernetes instalace nginx-ingress
+#  Kebernetes instalace nginx-ingress **(WIP)**
 
 # Nastaveni nginx-ingress pro k8s kubeadm
 Nasledujici dokument popisuje jak nainstalovat na custom k8s cluster (kudeadm) nginx-ingress.
