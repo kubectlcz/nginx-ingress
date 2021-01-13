@@ -11,7 +11,7 @@ Vsechny prikazy ktere budu pouzivat jsou na Linuxu pripade Macu. __Windows nasta
 
 ## Prostredi - CPU a RAM je doporucene
 |Role|IP|OS|RAM|CPU|
-|----|----|----|----|----|----|
+|----|----|----|----|----|
 |Load Balancer|172.16.16.100|Ubuntu 20.04|1G|1|
 |Master|172.16.16.101|Ubuntu 20.04|2G|2|
 |Worker|172.16.16.201|Ubuntu 20.04|2G|2|
