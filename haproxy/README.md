@@ -25,8 +25,14 @@ backend http-backend
 ```
 ##### Restart haproxy service
 ```
-systemctl restart haproxy
+sudo systemctl restart haproxy
 ```
+
+##### Overeni ze po restartu sluzba opet chodi
+```
+sudo systemctl status haproxy
+```
+
 V tuto chvili je nainstalovany a nakonfigurovany load balancer. Jedna se o jednoduchou konfiguraci kdy je potreba mit nadefinovany __frontend__ a __backend__
 
 ## frontend
